@@ -1,0 +1,26 @@
+.main-class {
+    width:80% !important;   
+    padding: 10px;
+}
+
+.btn-primary {
+    float: right !important;
+}
+
+
+.navbar-inverse{
+    color: #fff !important;
+    background-color: #337ab7 !important;
+    border-color: #2e6da4 !important;
+    border-radius: 0px !important;
+}
+
+.navbar-header{
+    padding: 10px !important;
+    font-size: 18px !important;
+}
+
+.display-results {
+    font-size: 15px !important;
+    font-weight: bold !important;
+}
